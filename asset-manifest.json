@@ -1,17 +1,15 @@
 {
   "files": {
-    "main.css": "/react-app-site/static/css/main.f0b7b473.css",
-    "main.js": "/react-app-site/static/js/main.d6ed5ebb.js",
-    "static/js/787.a470e22a.chunk.js": "/react-app-site/static/js/787.a470e22a.chunk.js",
-    "static/media/device_category.png": "/react-app-site/static/media/device_category.2b952c20bdb9c9b718a8.png",
-    "static/media/logo_152.png": "/react-app-site/static/media/logo_152.8a9fb3730ba00e5f252e.png",
+    "main.css": "/react-app-site/static/css/main.15a6816d.css",
+    "main.js": "/react-app-site/static/js/main.0d95e9da.js",
+    "static/media/device_main.png": "/react-app-site/static/media/device_main.20a60fe95313deae4228.png",
+    "static/media/logo.png": "/react-app-site/static/media/logo.309efa64f511d4605f62.png",
     "index.html": "/react-app-site/index.html",
-    "main.f0b7b473.css.map": "/react-app-site/static/css/main.f0b7b473.css.map",
-    "main.d6ed5ebb.js.map": "/react-app-site/static/js/main.d6ed5ebb.js.map",
-    "787.a470e22a.chunk.js.map": "/react-app-site/static/js/787.a470e22a.chunk.js.map"
+    "main.15a6816d.css.map": "/react-app-site/static/css/main.15a6816d.css.map",
+    "main.0d95e9da.js.map": "/react-app-site/static/js/main.0d95e9da.js.map"
   },
   "entrypoints": [
-    "static/css/main.f0b7b473.css",
-    "static/js/main.d6ed5ebb.js"
+    "static/css/main.15a6816d.css",
+    "static/js/main.0d95e9da.js"
   ]
 }
