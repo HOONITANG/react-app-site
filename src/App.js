@@ -5,6 +5,7 @@ import "./css/main.css";
 import Home from "./pages/Home";
 import Policy from "./pages/Policy";
 import PolicyEN from "./pages/Policy_EN";
+import PageNotFound from "./pages/PageNotFound";
 
 const App = () => {
   return (
@@ -12,6 +13,7 @@ const App = () => {
       <Route path="/react-app-site" element={<Home />} />
       <Route path="/react-app-site/policy_ko" element={<Policy />} />
       <Route path="/react-app-site/policy_en" element={<PolicyEN />} />
+      <Route path="*" element={<PageNotFound />} />
     </Routes>
   );
 };
