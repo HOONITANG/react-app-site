@@ -5,7 +5,6 @@ import i18next from "./config/lang/i18n";
 
 function Header() {
   const { t } = useTranslation();
-
   const handleClick = () => {
     var language = i18next.language == "ko" ? "en" : "ko";
     i18next.changeLanguage(language);

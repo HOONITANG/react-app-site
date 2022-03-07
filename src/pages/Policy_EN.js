@@ -1,11 +1,17 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import Header from "../Header";
+import i18next from "../config/lang/i18n";
 
 function PolicyEN() {
+  // componentDidMount
+  useEffect(() => {
+    i18next.changeLanguage("en");
+  }, []);
+
   return (
     <div className="PolicyEN">
       <div>
-        <Header />
+        <Header lang="en" />
 
         <div id="main_contents_wrap">
           <div className="common_contents_inner">
